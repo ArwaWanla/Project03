@@ -12,11 +12,5 @@
 <img width="747" alt="search" src="https://user-images.githubusercontent.com/82481987/121602516-109f4580-ca50-11eb-861a-8a346312700d.png">
 <img width="1190" alt="" src="https://user-images.githubusercontent.com/82481987/121601783-16485b80-ca4f-11eb-8fc3-509f7634b1b5.png">
 <img width="941" alt="" src="https://user-images.githubusercontent.com/82481987/121601790-18aab580-ca4f-11eb-9a95-04b78aa57c3e.png">
-]()
 
-
-
-### ملاحظة
-يجب إرفاق صورة من المشروع في ملف README.md
-  
 </div>
